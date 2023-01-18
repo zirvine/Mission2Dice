@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission2Dice", "Mission2Dice\Mission2Dice.csproj", "{8AD60CE3-94D5-44C8-8503-1CACC7A37D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD60CE3-94D5-44C8-8503-1CACC7A37D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD60CE3-94D5-44C8-8503-1CACC7A37D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD60CE3-94D5-44C8-8503-1CACC7A37D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD60CE3-94D5-44C8-8503-1CACC7A37D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC2EB23E-09DE-43C0-9ADA-B570F1FA34FD}
+	EndGlobalSection
+EndGlobal
